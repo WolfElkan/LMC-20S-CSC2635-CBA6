@@ -34,7 +34,7 @@ public class InvestmentFrame extends JFrame
       {
          double interest = balance * INTEREST_RATE / 100;
          balance = balance + interest;
-         resultLabel.setText("Balance: " + balance);
+         resultLabel.setText("Your new balance is " + balance);
       }            
    }
 
