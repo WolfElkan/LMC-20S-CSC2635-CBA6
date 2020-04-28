@@ -8,6 +8,6 @@ public class ClickListener implements ActionListener
 {
    public void actionPerformed(ActionEvent event)
    {
-      System.out.println("I was clicked.");
+      System.out.println("Hey, you clicked me!!");
    }            
 }
