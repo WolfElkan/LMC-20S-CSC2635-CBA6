@@ -1,4 +1,4 @@
-# Activity : Buttons and Listeners
+# Buttons and Listeners
 
 ## Objective
 
@@ -8,7 +8,7 @@
 * Run ch10/section_2_1/ButtonView1 as is
 * Change message from “I was clicked” to “Hey, you clicked me!!”.
 
-# Activity : Events
+# Events
 
 ## Objective
 
